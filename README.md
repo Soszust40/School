@@ -12,11 +12,12 @@ Welcome to the School Projects repository! This collection includes various game
 > **Note:** Some projects read from and write saves to your computer.
 
 ## Projects
-- [Space Adventure (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#space-adventure-python)
-- [Rock Paper Scissors (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#rock-paper-scissors-python)
-- [Wordle (Java)](https://github.com/Disneyhockey40/School/blob/main/README.md#wordle-java)
 - [Bank Software (Java)](https://github.com/Disneyhockey40/School/blob/main/README.md#bank-software-java)
 - [CSE 232 Labs (C++)](https://github.com/Disneyhockey40/School/blob/main/README.md#cse-232-Labs-c)
+- [Hangman (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#hangman)
+- [Rock Paper Scissors (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#rock-paper-scissors-python)
+- [Space Adventure (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#space-adventure-python)
+- [Wordle (Java)](https://github.com/Disneyhockey40/School/blob/main/README.md#wordle-java)
 
 ## Installation
 
@@ -27,36 +28,6 @@ Welcome to the School Projects repository! This collection includes various game
 
 ## Project List
 
-### Space Adventure (Python)
-
-**Release Date:** May 24, 2021  
-**Last Updated:** February 26, 2022  
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
-
-Space Adventure is a Python-based, space-themed Choose-Your-Own-Adventure game. Players embark on a mission with about six choices, starting with selecting a ship with unique stats. You can customize your crew to help you throughout the story.
-<br />
-<br />
-<br />
-### Rock Paper Scissors (Python)
-
-**Release Date:** October 8, 2021  
-**Last Updated:** October 8, 2021
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
-
-Rock Paper Scissors, is the game created in Python. Play with one or two players. The CPU can learn and adapt to your choices.
-<br />
-<br />
-<br />
-### Wordle (Java)
-
-**Release Date:** February 17, 2022  
-**Last Updated:** February 24, 2022  
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
-
-This is a Java implementation of the popular word puzzle game Wordle. The game randomly selects words from a list contained in the WordList.java file, offering a pool of about 1,000 different words.
-<br />
-<br />
-<br />
 ### Bank Software (Java)
 
 **Release Date:** June 7, 2022  
@@ -74,3 +45,43 @@ This project is a simple Java application for simulating basic bank operations. 
 **Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
 
 A C++ class with various labs and homeworks.
+<br />
+<br />
+<br />
+### Hangman (Python)
+
+**Release Date:** May 10, 2021 
+**Last Updated:** November 29, 2024
+**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+
+Hangman is a Python-based, classic word-guessing game. Players attempt to guess a hidden word by choosing letters, with about three chances to make mistakes.
+<br />
+<br />
+<br />
+### Rock Paper Scissors (Python)
+
+**Release Date:** October 8, 2021  
+**Last Updated:** October 8, 2021
+**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+
+Rock Paper Scissors, is the game created in Python. Play with one or two players. The CPU can learn and adapt to your choices.
+<br />
+<br />
+<br />
+### Space Adventure (Python)
+
+**Release Date:** May 24, 2021  
+**Last Updated:** February 26, 2022  
+**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+
+Space Adventure is a Python-based, space-themed Choose-Your-Own-Adventure game. Players embark on a mission with about six choices, starting with selecting a ship with unique stats. You can customize your crew to help you throughout the story.
+<br />
+<br />
+<br />
+### Wordle (Java)
+
+**Release Date:** February 17, 2022  
+**Last Updated:** February 24, 2022  
+**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+
+This is a Java implementation of the popular word puzzle game Wordle. The game randomly selects words from a list contained in the WordList.java file, offering a pool of about 1,000 different words.
