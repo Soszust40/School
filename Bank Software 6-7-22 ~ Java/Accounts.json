@@ -1,0 +1,26 @@
+[
+  {"Member":{
+      "accountUsername": "Sammy",
+      "accountPin": "9876",
+      "accountBalance": "3233"
+    }
+  },
+  {"Member":{
+      "accountUsername": "Bobby",
+      "accountPin": "7521",
+      "accountBalance": "1000000"
+    }
+  },
+  {"Member":{
+      "accountUsername": "Joe",
+      "accountPin": "3223",
+      "accountBalance": "2200"
+    }
+  },
+  {"Member":{
+      "accountUsername": "Ducky",
+      "accountPin": "1111",
+      "accountBalance": "-200000"
+    }
+  }
+]
