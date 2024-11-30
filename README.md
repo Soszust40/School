@@ -63,3 +63,13 @@ This is a Java implementation of the popular word puzzle game Wordle. The game r
 **Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
 
 This project is a simple Java application for simulating basic bank operations. Users can create accounts, deposit and withdraw money, and view account balances.
+<br />
+<br />
+<br />
+### CSE 232 (C++)
+
+**Release Date:** April 5, 2024 
+**Last Updated:** April 5, 2024
+**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+
+A C++ class with various labs and homeworks.
