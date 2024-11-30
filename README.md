@@ -2,7 +2,7 @@
 
 Welcome to the School Projects repository! This collection includes various games and software developed for my school assignments. The projects are created using different programming languages based on the course requirements, and most of them include descriptive comments to facilitate learning. Feel free to explore, learn, and have fun with these projects. If you encounter any issues or have suggestions, please reach out!
 
-**Last Updated:** June 2, 2024
+**Last Updated:** November 29, 2024
 
 **Developer:** [Oszust Industries](https://github.com/Oszust-Industries)  
 [![Follow @OszustOS on Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40OszustOS)](https://twitter.com/OszustOS)
@@ -16,6 +16,7 @@ Welcome to the School Projects repository! This collection includes various game
 - [Rock Paper Scissors (Python)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#rock-paper-scissors-python)
 - [Wordle (Java)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#wordle-java)
 - [Bank Software (Java)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#bank-software-java)
+- [CSE 232 (C++)](https://github.com/Oszust-Industries/School-Projects/blob/main/README.md#cse-232-c)
 
 ## Installation
 
