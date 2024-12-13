@@ -15,16 +15,10 @@ Welcome to the School Projects repository! This collection includes various game
 - [Bank Software (Java)](https://github.com/Disneyhockey40/School/blob/main/README.md#bank-software-java)
 - [CSE 232 Labs (C++)](https://github.com/Disneyhockey40/School/blob/main/README.md#cse-232-Labs-c)
 - [Hangman (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#hangman)
+- [Largest Monotonic Island (Dafny)](https://github.com/Disneyhockey40/School/blob/main/README.mdLargest-Monotonic-Island)
 - [Rock Paper Scissors (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#rock-paper-scissors-python)
 - [Space Adventure (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#space-adventure-python)
 - [Wordle (Java)](https://github.com/Disneyhockey40/School/blob/main/README.md#wordle-java)
-
-## Installation
-
-1. Download the entire repository as a .zip file and move it to the desired location.
-2. Unzip the file and remove any projects you don't want to use.
-3. Ensure you install the appropriate programming language (Python or Java).
-4. Run the main or only .py or .java files.
 
 ## Project List
 
@@ -55,6 +49,16 @@ A C++ class with various labs and homeworks.
 **Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
 
 Hangman is a Python-based, classic word-guessing game. Players attempt to guess a hidden word by choosing letters, with about three chances to make mistakes.
+<br />
+<br />
+<br />
+### Largest Monotonic Island (Dafny)
+
+**Release Date:** December 5, 2024
+**Last Updated:** December 5, 2024
+**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+
+A Dafny project to verify and find the largest contiguous monotonic island in an array of integers, where consecutive elements differ by ±1.
 <br />
 <br />
 <br />
