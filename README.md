@@ -14,8 +14,8 @@ Welcome to the School Projects repository! This collection includes various game
 ## Projects
 - [Bank Software (Java)](https://github.com/Disneyhockey40/School/blob/main/README.md#bank-software-java)
 - [CSE 232 Labs (C++)](https://github.com/Disneyhockey40/School/blob/main/README.md#cse-232-Labs-c)
-- [Hangman (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#hangman)
-- [Largest Monotonic Island (Dafny)](https://github.com/Disneyhockey40/School/blob/main/README.mdLargest-Monotonic-Island)
+- [Hangman (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#hangman-python)
+- [Largest Monotonic Island (Dafny)](https://github.com/Disneyhockey40/School/blob/main/README.md#largest-monotonic-island-dafny)
 - [Rock Paper Scissors (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#rock-paper-scissors-python)
 - [Space Adventure (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#space-adventure-python)
 - [Wordle (Java)](https://github.com/Disneyhockey40/School/blob/main/README.md#wordle-java)
