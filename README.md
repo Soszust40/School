@@ -12,13 +12,13 @@ Welcome to the School Projects repository! This collection includes various game
 > **Note:** Some projects read from and write saves to your computer.
 
 ## Projects
-- [Bank Software (Java)](https://github.com/Disneyhockey40/School/blob/main/README.md#bank-software-java)
-- [CSE 232 Labs (C++)](https://github.com/Disneyhockey40/School/blob/main/README.md#cse-232-Labs-c)
-- [Hangman (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#hangman-python)
-- [Largest Monotonic Island (Dafny)](https://github.com/Disneyhockey40/School/blob/main/README.md#largest-monotonic-island-dafny)
-- [Rock Paper Scissors (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#rock-paper-scissors-python)
-- [Space Adventure (Python)](https://github.com/Disneyhockey40/School/blob/main/README.md#space-adventure-python)
-- [Wordle (Java)](https://github.com/Disneyhockey40/School/blob/main/README.md#wordle-java)
+- [Bank Software (Java)](https://github.com/Soszust40/School/blob/main/README.md#bank-software-java)
+- [CSE 232 Labs (C++)](https://github.com/Soszust40/School/blob/main/README.md#cse-232-Labs-c)
+- [Hangman (Python)](https://github.com/Soszust40/School/blob/main/README.md#hangman-python)
+- [Largest Monotonic Island (Dafny)](https://github.com/Soszust40/School/blob/main/README.md#largest-monotonic-island-dafny)
+- [Rock Paper Scissors (Python)](https://github.com/Soszust40/School/blob/main/README.md#rock-paper-scissors-python)
+- [Space Adventure (Python)](https://github.com/Soszust40/School/blob/main/README.md#space-adventure-python)
+- [Wordle (Java)](https://github.com/Soszust40/School/blob/main/README.md#wordle-java)
 
 ## Project List
 
