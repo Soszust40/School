@@ -4,7 +4,7 @@ Welcome to the School Projects repository! This collection includes various game
 
 **Last Updated:** December 12, 2024
 
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)  
+**Developer:** [Simon Oszust](https://github.com/Soszust40)  
 [![Follow @OszustOS on Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40OszustOS)](https://twitter.com/OszustOS)
 
 **Languages:** English
