@@ -31,6 +31,9 @@ Welcome to the School Projects repository! This collection includes various game
 This project is a simple Java application for simulating basic bank operations. Users can create accounts, deposit and withdraw money, and view account balances.
 <br />
 <br />
+<img src="/Screenshots/Bank%20Software.png?" alt="Bank Software image" width="400" height="550">
+<br />
+<br />
 <br />
 ### CSE 232 Labs (C++)
 
@@ -49,6 +52,9 @@ A C++ class with various labs and homeworks.
 **Developer:** [Simon Oszust](https://github.com/Soszust40)
 
 Hangman is a Python-based, classic word-guessing game. Players attempt to guess a hidden word by choosing letters, with about three chances to make mistakes.
+<br />
+<br />
+<img src="/Screenshots/Hangman.png?" alt="Hangman image" width="800" height="400" style="vertical-align: top;">
 <br />
 <br />
 <br />
@@ -81,6 +87,9 @@ Rock Paper Scissors, is the game created in Python. Play with one or two players
 Space Adventure is a Python-based, space-themed Choose-Your-Own-Adventure game. Players embark on a mission with about six choices, starting with selecting a ship with unique stats. You can customize your crew to help you throughout the story.
 <br />
 <br />
+<img src="/Screenshots/Space%20Adventure.png?" alt="Space Adventure image" width="800" height="400" style="vertical-align: top;">
+<br />
+<br />
 <br />
 ### Wordle (Java)
 
@@ -89,3 +98,6 @@ Space Adventure is a Python-based, space-themed Choose-Your-Own-Adventure game. 
 **Developer:** [Simon Oszust](https://github.com/Soszust40)
 
 This is a Java implementation of the popular word puzzle game Wordle. The game randomly selects words from a list contained in the WordList.java file, offering a pool of about 1,000 different words.
+<br />
+<br />
+<img src="/Screenshots/Wordle.png?" alt="Wordle image" width="400" height="550" style="vertical-align: top;">
