@@ -26,7 +26,7 @@ Welcome to the School Projects repository! This collection includes various game
 
 **Release Date:** June 7, 2022 |
 **Last Updated:** June 7, 2022 |
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+**Developer:** [Simon Oszust](https://github.com/Soszust40)
 
 This project is a simple Java application for simulating basic bank operations. Users can create accounts, deposit and withdraw money, and view account balances.
 <br />
@@ -36,7 +36,7 @@ This project is a simple Java application for simulating basic bank operations. 
 
 **Release Date:** April 5, 2024 |
 **Last Updated:** April 5, 2024 |
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+**Developer:** [Simon Oszust](https://github.com/Soszust40)
 
 A C++ class with various labs and homeworks.
 <br />
@@ -46,7 +46,7 @@ A C++ class with various labs and homeworks.
 
 **Release Date:** May 10, 2021 |
 **Last Updated:** November 29, 2024 |
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+**Developer:** [Simon Oszust](https://github.com/Soszust40)
 
 Hangman is a Python-based, classic word-guessing game. Players attempt to guess a hidden word by choosing letters, with about three chances to make mistakes.
 <br />
@@ -56,7 +56,7 @@ Hangman is a Python-based, classic word-guessing game. Players attempt to guess 
 
 **Release Date:** December 5, 2024 |
 **Last Updated:** December 5, 2024 |
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+**Developer:** [Simon Oszust](https://github.com/Soszust40)
 
 A Dafny project to verify and find the largest contiguous monotonic island in an array of integers, where consecutive elements differ by ±1.
 <br />
@@ -66,7 +66,7 @@ A Dafny project to verify and find the largest contiguous monotonic island in an
 
 **Release Date:** October 8, 2021 |
 **Last Updated:** October 8, 2021 |
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+**Developer:** [Simon Oszust](https://github.com/Soszust40)
 
 Rock Paper Scissors, is the game created in Python. Play with one or two players. The CPU can learn and adapt to your choices.
 <br />
@@ -76,7 +76,7 @@ Rock Paper Scissors, is the game created in Python. Play with one or two players
 
 **Release Date:** May 24, 2021 |
 **Last Updated:** February 26, 2022 |
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+**Developer:** [Simon Oszust](https://github.com/Soszust40)
 
 Space Adventure is a Python-based, space-themed Choose-Your-Own-Adventure game. Players embark on a mission with about six choices, starting with selecting a ship with unique stats. You can customize your crew to help you throughout the story.
 <br />
@@ -86,6 +86,6 @@ Space Adventure is a Python-based, space-themed Choose-Your-Own-Adventure game. 
 
 **Release Date:** February 17, 2022 |
 **Last Updated:** February 24, 2022 |
-**Developer:** [Oszust Industries](https://github.com/Oszust-Industries)
+**Developer:** [Simon Oszust](https://github.com/Soszust40)
 
 This is a Java implementation of the popular word puzzle game Wordle. The game randomly selects words from a list contained in the WordList.java file, offering a pool of about 1,000 different words.
