@@ -1,4 +1,4 @@
-## Rock Paper Scissors - Oszust Industries
+## Rock Paper Scissors - Simon Oszust
 ## Created on: 10-02-21 - Last update: 10-08-21
 ## Oszust Industries - Small Projects Collection
 gameVersion = "v1.0.0"
