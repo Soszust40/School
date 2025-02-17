@@ -1,4 +1,4 @@
-## Space Adventure Game (School Project) - Oszust Industries
+## Space Adventure Game (School Project) - Simon Oszust
 ## Created on: 5-24-21 - Last update: 2-27-22
 gameVersion = "v1.1.0"
 def clear(): return ("\n" * 70)
