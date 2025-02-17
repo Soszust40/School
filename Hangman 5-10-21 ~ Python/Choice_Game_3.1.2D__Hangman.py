@@ -1,4 +1,4 @@
-## Hangman Game - Oszust Industries
+## Hangman Game - Simon Oszust
 ## Created on: 5-10-21 - Last update: 10-01-21
 gameVersion = "v1.1.0-RETRO"
 import random
