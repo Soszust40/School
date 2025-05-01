@@ -52,7 +52,7 @@ A Dafny project to verify and find the largest contiguous monotonic island in an
 **Last Updated:** June 7, 2022 |
 **Developer:** [Simon Oszust](https://github.com/Soszust40)
 
-This project is a simple Java application for simulating basic bank operations. Users can create accounts, deposit and withdraw money, and view account balances.
+This Java application simulates basic banking operations, allowing users to create accounts, deposit and withdraw funds, and check account balances through a simple interface.
 <br />
 <br />
 <img src="/Screenshots/Bank%20Software.png?" alt="Bank Software image" width="400" height="550">
@@ -65,7 +65,7 @@ This project is a simple Java application for simulating basic bank operations. 
 **Last Updated:** February 24, 2022 |
 **Developer:** [Simon Oszust](https://github.com/Soszust40)
 
-This is a Java implementation of the popular word puzzle game Wordle. The game randomly selects words from a list of over 1,000 words.
+This Java implementation of the popular word puzzle game Wordle randomly selects from a list of over 1,000 words, challenging players to guess the correct word within a limited number of attempts.
 <br />
 <br />
 <img src="/Screenshots/Wordle.png?" alt="Wordle image" width="400" height="550" style="vertical-align: top;">
@@ -78,7 +78,7 @@ This is a Java implementation of the popular word puzzle game Wordle. The game r
 **Last Updated:** November 29, 2024 |
 **Developer:** [Simon Oszust](https://github.com/Soszust40)
 
-Hangman is a Python-based, classic word-guessing game. Players attempt to guess a hidden word by choosing letters, with a limited number of mistakes.
+Hangman is a classic word-guessing game built with Python, where players try to uncover a hidden word one letter at a time, with only a limited number of incorrect guesses allowed.
 <br />
 <br />
 <img src="/Screenshots/Hangman.png?" alt="Hangman image" width="800" height="400" style="vertical-align: top;">
@@ -91,7 +91,7 @@ Hangman is a Python-based, classic word-guessing game. Players attempt to guess 
 **Last Updated:** February 26, 2022 |
 **Developer:** [Simon Oszust](https://github.com/Soszust40)
 
-Space Adventure is a Python-based, space-themed Choose-Your-Own-Adventure game. Players embark on a mission that develops based on their choices, starting with selecting a ship with unique stats. You can customize your crew to help you throughout the story.
+Space Adventure is a Python, space-themed Choose-Your-Own-Adventure game where your choices shape the story. Begin by selecting a ship with unique stats, then customize your crew to support you on a mission full of twists, turns, and interstellar challenges.
 <br />
 <br />
 <img src="/Screenshots/Space%20Adventure.png?" alt="Space Adventure image" width="800" height="400" style="vertical-align: top;">
@@ -104,4 +104,4 @@ Space Adventure is a Python-based, space-themed Choose-Your-Own-Adventure game. 
 **Last Updated:** October 8, 2021 |
 **Developer:** [Simon Oszust](https://github.com/Soszust40)
 
-Rock Paper Scissors is a game written in Python that can be played with 1-2 players. The CPU will learn from your wins to make future games more challenging.
+Rock Paper Scissors is a Python game for 1 or 2 players, featuring an adaptive CPU opponent that learns from your victories to become progressively more challenging.
