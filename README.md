@@ -2,7 +2,7 @@
 
 Welcome to the School Projects repository! This collection includes various games and software developed for my school assignments. The projects are created using different programming languages based on the course requirements, and most of them include descriptive comments to facilitate learning. Feel free to explore, learn, and have fun with these projects. If you encounter any issues or have suggestions, please reach out!
 
-**Last Updated:** April 31, 2025
+**Last Updated:** May 1, 2025
 
 **Developer:** [Simon Oszust](https://github.com/Soszust40)  
 [![Follow @OszustOS on Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40OszustOS)](https://twitter.com/OszustOS)
