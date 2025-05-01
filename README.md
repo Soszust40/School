@@ -2,7 +2,7 @@
 
 Welcome to the School Projects repository! This collection includes various games and software developed for my school assignments. The projects are created using different programming languages based on the course requirements, and most of them include descriptive comments to facilitate learning. Feel free to explore, learn, and have fun with these projects. If you encounter any issues or have suggestions, please reach out!
 
-**Last Updated:** April 30, 2025
+**Last Updated:** April 31, 2025
 
 **Developer:** [Simon Oszust](https://github.com/Soszust40)  
 [![Follow @OszustOS on Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40OszustOS)](https://twitter.com/OszustOS)
@@ -24,8 +24,8 @@ Welcome to the School Projects repository! This collection includes various game
 
 ### Spartanmind (C++)
 
-**Release Date:** April 30, 2025 |
-**Last Updated:** April 30, 2025 |
+**Release Date:** March 23, 2025 |
+**Last Updated:** March 23, 2025 |
 **Developer:** [Simon Oszust](https://github.com/Soszust40)
 
 Spartanmind is a C++ group project developed in my Object-Oriented Software Design course. It's a game inspired by Mastermind, where players control a character (like a treasure chest or Sparty the mascot) to grab and place letter tiles in a grid to guess a hidden word. The game includes unique mechanics like grabbing and releasing letters, container puzzles, and feedback for correct/incorrect letter placement. Our custom Level 3 introduced a car-themed level where letter tiles are shopping bags in a moving vehicle, and players must avoid road barriers on their way to place letters.
