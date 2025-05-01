@@ -31,7 +31,7 @@ Welcome to the School Projects repository! This collection includes various game
 Spartanmind is a C++ group project developed in my Object-Oriented Software Design course. It's a game inspired by Mastermind, where players control a character (like a treasure chest or Sparty the mascot) to grab and place letter tiles in a grid to guess a hidden word. The game includes unique mechanics like grabbing and releasing letters, container puzzles, and feedback for correct/incorrect letter placement. Our custom Level 3 introduced a car-themed level where letter tiles are shopping bags in a moving vehicle, and players must avoid road barriers on their way to place letters.
 <br />
 <br />
-<img src="/Screenshots/Spartanmind.png?" alt="Spartanmind image" width="400" height="550">
+<img src="/Screenshots/Spartanmind.png?" alt="Spartanmind image" width="500" height="400">
 <br />
 <br />
 <br />
