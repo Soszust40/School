@@ -1,0 +1,14 @@
+v1.0.0 (5/24/21)
+	RELEASE
+
+v1.0.1 (2/26/22)
+	-Updated some code to look better when reading
+	-Fixed launch bug text
+	-Fixed quitting game causing random messages to show
+
+v1.1.0 (2/27/22)
+	-Added a crash prevention system
+	-Cleaned the interface
+	-Optimized code
+	-Fixed a few bugs
+	-Cut file size by about 25%
