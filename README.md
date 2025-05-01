@@ -13,7 +13,6 @@ Welcome to the School Projects repository! This collection includes various game
 
 ## Projects
 - [Bank Software (Java)](https://github.com/Soszust40/School/blob/main/README.md#bank-software-java)
-- [CSE 232 Labs (C++)](https://github.com/Soszust40/School/blob/main/README.md#cse-232-Labs-c)
 - [Hangman (Python)](https://github.com/Soszust40/School/blob/main/README.md#hangman-python)
 - [Largest Monotonic Island (Dafny)](https://github.com/Soszust40/School/blob/main/README.md#largest-monotonic-island-dafny)
 - [Rock Paper Scissors (Python)](https://github.com/Soszust40/School/blob/main/README.md#rock-paper-scissors-python)
@@ -32,16 +31,6 @@ This project is a simple Java application for simulating basic bank operations. 
 <br />
 <br />
 <img src="/Screenshots/Bank%20Software.png?" alt="Bank Software image" width="400" height="550">
-<br />
-<br />
-<br />
-### CSE 232 Labs (C++)
-
-**Release Date:** April 5, 2024 |
-**Last Updated:** April 5, 2024 |
-**Developer:** [Simon Oszust](https://github.com/Soszust40)
-
-A C++ class with various labs and homeworks.
 <br />
 <br />
 <br />
