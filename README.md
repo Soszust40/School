@@ -12,7 +12,7 @@ Welcome to the School Projects repository! This collection includes various game
 > **Note:** Some projects read from and write saves to your computer.
 
 ## Projects
-- [Spartanmind (C++)](https://github.com/Soszust40/School/edit/main/README.md#spartanmind-c)
+- [Spartanmind (C++)](https://github.com/Soszust40/School/blob/main/README.md#spartanmind-c)
 - [Largest Monotonic Island (Dafny)](https://github.com/Soszust40/School/blob/main/README.md#largest-monotonic-island-dafny)
 - [Bank Software (Java)](https://github.com/Soszust40/School/blob/main/README.md#bank-software-java)
 - [Wordle (Java)](https://github.com/Soszust40/School/blob/main/README.md#wordle-java)
