@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Fitness Logger</string>
+    <string name="step_count_default">Steps: 0</string>
+    <string name="step_count_no_permission">Permission Required to Access Steps</string>
+    <string name="step_count_format">Steps: %1$d</string>
+    <string name="no_sensor">No Sensor Found</string>
+    <string name="recent_label">Recent Activities</string>
+    <string name="btn_add_activity">Add New Activity</string>
+    <string name="permission_denied">Permission Denied</string>
+    <string name="img_loading_error">Failed to load image</string>
+    <string name="dialog_title">Activity Image</string>
+    <string name="dialog_close">Close</string>
+
+    <string name="lbl_select_type">Select Activity Type</string>
+
+    <string name="lbl_duration_format">Duration: %1$d mins</string>
+    <string name="lbl_duration_default">Duration: 30 mins</string>
+
+    <string name="btn_fetch_image">Get Random Motivation Image</string>
+    <string name="img_desc_preview">Activity Image Preview</string>
+    <string name="btn_save">Save Activity</string>
+    <string name="msg_saved">Saved!</string>
+    <string name="msg_save_error">Error saving</string>
+    <string name="err_network_title">Connection Issue</string>
+    <string name="err_network_msg">Image failed to load. Using placeholder.</string>
+    <string name="err_saved_offline">Saved with offline placeholder.</string>
+
+    <string-array name="activity_types">
+        <item>Running</item>
+        <item>Walking</item>
+        <item>Cycling</item>
+        <item>Arms</item>
+        <item>Legs</item>
+        <item>Back</item>
+    </string-array>
+</resources>
