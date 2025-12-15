@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Simon's Blog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="container">
+    <nav aria-label="Main navigation">
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section aria-labelledby="posts-heading">
+      <h2 id="posts-heading">Simon's Blog</h2>
+
+      <!-- Blog post 1 -->
+      <article>
+        <header>
+          <h3>Walking the Greenway: Urban Nature and You</h3>
+          <p class="byline">By <span class="author">Simon Oszust</span> — <time datetime="2025-09-01">September 1, 2025</time></p>
+        </header>
+        <figure>
+          <img src="https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=1200&q=80&auto=format&fit=crop" alt="a park path with trees and benches">
+          <figcaption>Early morning on the city greenway.</figcaption>
+        </figure>
+        <p>
+          The urban greenway is more than a strip of plants and a paved trail — it's a breathing space inside the city, a corridor where people, birds, and small mammals pass through the daily noise. On weekend mornings I take a sixty-minute loop that starts at the river bridge and winds past community gardens, a playground, and a little wetland that many people overlook. The ritual of walking turns into a slow study of details: the angle of light through leaves, the sound of different shoes on the path, the way a dog pauses at the same tree every time. It matters because these details knit together a sense of belonging and well-being. Studies have shown (and common sense confirms) that regular exposure to pockets of nature reduces stress and sharpens attention. You don't need a perfect park — only an accessible clean path where sightlines allow you to relax and watch life go by.
+        </p>
+        <p>
+          On my walks I try small experiments in observation: one week I track bird species I see, another I notice what plants are blooming. These micro-projects shift the walk from background exercise to active curiosity. They also make the greenway an educational resource for neighborhoods: schools can adopt sections for cleanup, local artists can install temporary sculptures, and volunteers can map invasive plants. When people invest a little time, the greenway becomes a social thread that ties adjacent blocks together. If you're new to urban walking, start slowly. Bring a small notebook or use your phone to jot what you notice. Over time you'll notice how the same path looks different in rain, fog, or late summer heat — and you'll begin to feel the subtle rhythm of your city.
+        </p>
+        <p>
+          Accessibility matters, too. Make sure paths are clear of overgrown bushes and have safe crossings at busy streets. Advocate for benches spaced so older walkers can rest. A well-kept greenway supports everyone from joggers to grandparents with strollers. Every city deserves a well-loved, well-maintained green corridor — and if your city doesn't have one yet, maybe you can start the conversation with a neighbor or community group.
+        </p>
+      </article>
+
+      <!-- Blog post 2 with table -->
+      <article>
+        <header>
+          <h3>Home Coffee Brewing: Simple Gear, Big Flavor</h3>
+          <p class="byline">By <span class="author">Simon Oszust</span> — <time datetime="2025-08-18">August 18, 2025</time></p>
+        </header>
+        <figure>
+          <img src="coffee.jpg" alt="coffee mug">
+          <figcaption>A modest pour-over station at home.</figcaption>
+        </figure>
+        <p>
+          Brewing better coffee at home doesn't require a lab of equipment. With a few thoughtful choices and consistent technique you can raise your morning cup by leaps. My basic checklist is: fresh whole beans, a burr grinder, good water (filtered if your tap is very hard), a scale that measures grams, and a brewing method that matches your patience level. For many people, a simple pour-over dripper (V60-style) or an immersion brewer (like a French press) gives a wide range of pleasant results without a steep learning curve. The key is controlling two main variables: grind size and brew ratio. Too fine a grind makes the coffee bitter; too coarse makes it weak.
+        </p>
+        <p>
+          Below is a small reference table I use while testing roast and grind settings. It's simple and practical — feel free to adapt it to your taste. The table shows three example recipes for different flavor intensity targets.
+        </p>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Method</th>
+              <th>Coffee (g)</th>
+              <th>Water (g)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Light / Bright (pour-over)</td>
+              <td>18</td>
+              <td>300</td>
+            </tr>
+            <tr>
+              <td>Balanced (pour-over)</td>
+              <td>20</td>
+              <td>300</td>
+            </tr>
+            <tr>
+              <td>Bold / Full (French press)</td>
+              <td>30</td>
+              <td>450</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <p>
+          Beyond numbers, tasting is essential. Adjust your grind a notch and re-taste. If the brew is sour, it may be under-extracted (try finer grind or longer contact time). If it's overly bitter, try a coarser grind or slightly cooler water (about 92–96°C is a good range). Freshness of beans is also huge — coffee is usually best in the first two to four weeks after roast. Buy smaller amounts and grind right before brewing.
+        </p>
+        <p>
+          Finally, don't let gear be an excuse to procrastinate. A solid manual kettle and a reliable grinder will pay off more than flashy gadgets. Above all, enjoy the ritual: time your pours, note batch differences, and lean into the sensory experience. Coffee is a daily window into practice and pleasure.
+        </p>
+      </article>
+
+    </section>
+
+    <!-- Newsletter signup form -->
+    <aside>
+      <h2>Subscribe to the Newsletter</h2>
+      <form name="Newsletter Form" aria-label="Newsletter signup" netlify>
+        <label for="newsletter-email">Email address</label>
+        <input id="newsletter-email" name="email" type="email" placeholder="you@example.com" required>
+        <label for="newsletter-name">Name (optional)</label>
+        <input id="newsletter-name" name="name" type="text" placeholder="First name">
+        <button type="submit">Subscribe</button>
+      </form>
+    </aside>
+
+  </main>
+
+  <footer class="container">
+    <p>&copy; 2025 Simon Oszust</p>
+  </footer>
+</body>
+</html>
