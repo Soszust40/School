@@ -2,7 +2,7 @@
 
 Welcome to the School Projects repository! This collection includes various games and software developed for my school assignments. The projects are created using different programming languages based on the course requirements, and most of them include descriptive comments to facilitate learning. Feel free to explore, learn, and have fun with these projects. If you encounter any issues or have suggestions, please reach out!
 
-**Last Updated:** May 1, 2025
+**Last Updated:** December 15, 2025
 
 **Developer:** [Simon Oszust](https://github.com/Soszust40)  
 [![Follow @OszustOS on Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40OszustOS)](https://twitter.com/OszustOS)
@@ -22,6 +22,34 @@ Welcome to the School Projects repository! This collection includes various game
 
 ## Project List
 
+### WholeNotes App (Java)
+
+**Release Date:** December 4, 2025 |
+**Last Updated:** December 4, 2025 |
+**Developer:** [Simon Oszust](https://github.com/Soszust40)
+
+WholeNotes is a music reviewing application designed with a social feed interface, functioning essentially as "Instagram for music." The app focuses on visual album discovery, allowing users to post reviews, rate songs, and share their musical rotation in a familiar, scrollable feed format.
+<br />
+<br />
+<img src="/Screenshots/WholeNotes.png?" alt="WholeNotes App image" width="500" height="400">
+<br />
+<br />
+<br />
+
+### Fitness App (Java)
+
+**Release Date:** November 19, 2025 |
+**Last Updated:** November 19, 2025 |
+**Developer:** [Simon Oszust](https://github.com/Soszust40)
+
+Developed in under 24 hours for a coding challenge, this Fitness App is a health tracker. It integrates with device hardware sensors to automatically track real-time step counts and features a logging system where users can manually record specific workout details and routines.
+<br />
+<br />
+<img src="/Screenshots/FitnessApp.png?" alt="Fitness App image" width="500" height="400">
+<br />
+<br />
+<br />
+
 ### Spartanmind (C++)
 
 **Release Date:** March 23, 2025 |
@@ -35,6 +63,7 @@ Spartanmind is a C++ group project developed in my Object-Oriented Software Desi
 <br />
 <br />
 <br />
+
 ### Largest Monotonic Island (Dafny)
 
 **Release Date:** December 5, 2024 |
