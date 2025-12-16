@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Our Story | Katelyn & Jacob</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/rings.png" type="image/png">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <a href="index.html" class="logo">
+                <img src="images/Logo.png" alt="K & J" class="logo-img">
+            </a>
+            <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="story.html" class="active">Our Story</a></li>
+                <li><a href="details.html">Details</a></li>
+                <li><a href="travel.html">Travel</a></li>
+                <li><a href="registry.html">Registry</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="container section">
+            <h2 class="text-center">Our Journey Together</h2>
+            <p class="text-center" style="margin: 0 auto 3rem auto;">From working together to saying "I Do".</p>
+            
+            <div class="timeline">
+                <!-- Event 1 -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <span class="timeline-date">November 2018</span>
+                        <h3>Holiday Market</h3>
+                        <p>It started in Canton, MI. Jacob became a new staff member at the local holiday market. He became friends with Katelyn while working there.</p>
+                    </div>
+                </div>
+
+                <!-- Event 2 -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <span class="timeline-date">February 2019</span>
+                        <h3>Our First "Real" Date</h3>
+                        <p>After months of working together, we went on a proper date in downtown Plymouth.</p>
+                    </div>
+                </div>
+
+                <!-- Event 3 -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <span class="timeline-date">August 2019</span>
+                        <h3>Michigan State</h3>
+                        <p>We both chose the same college and started our journey together at Michigan State University.</p>
+                    </div>
+                </div>
+
+                <!-- Event 4 -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <span class="timeline-date">May 2023</span>
+                        <h3>Graduation</h3>
+                        <p>We finished college and decided to start living together in Chicago.</p>
+                    </div>
+                </div>
+
+                <!-- Event 5 -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <span class="timeline-date">January 2024</span>
+                        <h3>Adopting Cosmo</h3>
+                        <p>Our family grew by four paws when we adopted our rescue dog, Cosmo.</p>
+                    </div>
+                </div>
+
+                <!-- Event 6 -->
+                <div class="timeline-item">
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <span class="timeline-date">July 2025</span>
+                        <h3>The Proposal</h3>
+                        <p>On a sunset walk along a lake in Italy, Jacob got down on one knee. It was the easiest "Yes" ever.</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="text-center" style="margin-top: 3rem;">
+                <img src="images/couple.jpg" alt="Katie and Jacob" style="display:inline-block; max-height: 300px;">
+                <p><em>Katie and Jacob</em></p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>2026 Katelyn & Jacob Wedding</p>
+    </footer>
+
+    <!-- Script for Mobile Menu -->
+    <script>
+        function toggleMenu() {
+            document.getElementById('navLinks').classList.toggle('active');
+        }
+    </script>
+</body>
+</html>

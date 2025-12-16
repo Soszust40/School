@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Details | Katelyn & Jacob</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/rings.png" type="image/png">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <a href="index.html" class="logo">
+                <img src="images/Logo.png" alt="K & J" class="logo-img">
+            </a>
+            <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="story.html">Our Story</a></li>
+                <li><a href="details.html" class="active">Details</a></li>
+                <li><a href="travel.html">Travel</a></li>
+                <li><a href="registry.html">Registry</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="container section">
+            <h2 class="text-center">Wedding Details</h2>
+
+            <img src="images/Belvedere Grand.jpg" alt="Belvedere Grand" class="detail-img">
+            
+            <div class="details-card">
+                <h3>Welcome Event (September 26)</h3>
+                <p><strong>Time:</strong> 7:00 PM</p>
+                <p><strong>Location:</strong> The Shipwreck</p>
+                <p>Please join the bride, groom, and their families for drinks at The Shipwreck in town. It will be a cash bar. Food will not be provided.</p>
+                
+                <a href="https://www.google.com/maps/place/The+Shipwreck/@46.205547,-85.7477388,17z/data=!4m15!1m8!3m7!1s0x4d495e003d5951a3:0xcb92e304e5515433!2s17293+Main+St,+Curtis,+MI+49820!3b1!8m2!3d46.205547!4d-85.7451639!16s%2Fg%2F11pw0gzl8d!3m5!1s0x4d495e0015e851e3:0x993c0f78f42d8704!8m2!3d46.205547!4d-85.7451639!16s%2Fg%2F11bvvzz1pl?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D" target="_blank" class="map-btn">
+                    Open in Maps
+                </a>
+            </div>
+
+            <div class="details-card">
+                <h3>Wedding (September 27)</h3>
+                <p><strong>Time:</strong> 4:00 PM - 11:00 PM</p>
+                <p><strong>Location:</strong> The Belvedere Grand (formerly Chamberlin's Ole Forest Inn)</p>
+                <p>Dinner, drinks, and dancing to follow immediately after cocktail hour.</p>
+                
+                <a href="https://www.google.com/maps?cid=5611985919769591478" target="_blank" class="map-btn">
+                    Open in Maps
+                </a>
+            </div>
+
+            <!-- FAQ Section -->
+            <div class="faq-section">
+                <h2 class="text-center">Frequently Asked Questions</h2>
+                
+                <details>
+                    <summary>When do I have to RSVP by?</summary>
+                    <div class="faq-answer">
+                        <p>August 11th, 2026</p>
+                    </div>
+                </details>
+
+                <details>
+                    <summary>What happens if I don’t RSVP on time?</summary>
+                    <div class="faq-answer">
+                        <p>You will automatically be marked as a “no” after our deadline. We need a guest headcount for our vendors so please RSVP as soon as you can!</p>
+                    </div>
+                </details>
+
+                <details>
+                    <summary>What is the dress code?</summary>
+                    <div class="faq-answer">
+                        <p>We ask that you wear semi-formal to formal attire such as mid to floor length dresses, dressy jumpsuits, and suit and ties. The ceremony will be held outdoors on grass so please take this into consideration. Since we are next to Lake Manistique it can get a little chilly so a shawl or cardigan might be a good idea to have on you.</p>
+                    </div>
+                </details>
+
+                <details>
+                    <summary>What will the wedding party be wearing?</summary>
+                    <div class="faq-answer">
+                        <p>The wedding party will be wearing mocha colored dress. Please choose colors that differ from the bridal party.</p>
+                    </div>
+                </details>
+
+                <details>
+                    <summary>What time should I arrive?</summary>
+                    <div class="faq-answer">
+                        <p>The ceremony will start at 4pm ET. We recommend getting there around 3:00 to 3:30pm to park and get into the venue with plenty of time.</p>
+                    </div>
+                </details>
+
+                <details>
+                    <summary>Can I take pictures?</summary>
+                    <div class="faq-answer">
+                        <p>We are having an unplugged ceremony and kindly ask that you keep your cell phones in your purses or pockets during the full ceremony length. We have professional photos being taken throughout the day and would hate for your phone to be in photos. We will share photos of our ceremony once we get them.</p>
+                    </div>
+                </details>
+
+                <details>
+                    <summary>Does the venue have parking?</summary>
+                    <div class="faq-answer">
+                        <p>The venue has a lot for parking out front. However, we encourage carpooling if you are able.</p>
+                    </div>
+                </details>
+
+                <details>
+                    <summary>Can I bring my kids?</summary>
+                    <div class="faq-answer">
+                        <p>We are sorry but we are unable to accommodate children at our wedding. With the limited seating we are only able accommodate the invited guests.</p>
+                    </div>
+                </details>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>2026 Katelyn & Jacob Wedding</p>
+    </footer>
+
+    <!-- Script for Mobile Menu -->
+    <script>
+        function toggleMenu() {
+            document.getElementById('navLinks').classList.toggle('active');
+        }
+    </script>
+</body>
+</html>

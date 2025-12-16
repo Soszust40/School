@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Home fragment layout.
+     Holds a TabLayout at the top and a ViewPager2 below it so the user can swipe between
+     "Following" and "For You" feeds. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Tab bar for switching between feeds -->
+    <com.google.android.material.tabs.TabLayout
+        android:id="@+id/tab_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/home_tabs_desc"
+        app:tabIndicatorColor="@color/purple"
+        app:tabSelectedTextColor="@color/purple"
+        app:tabTextColor="@color/mist"
+        tools:ignore="SpeakableTextPresentCheck"/>
+
+    <!-- ViewPager2 holds the actual pages for each tab -->
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"/>
+</LinearLayout>

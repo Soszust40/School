@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registry | Katelyn & Jacob</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="images/rings.png" type="image/png">
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <a href="index.html" class="logo">
+                <img src="images/Logo.png" alt="K & J" class="logo-img">
+            </a>
+            <div class="menu-toggle" onclick="toggleMenu()">☰</div>
+            <ul class="nav-links" id="navLinks">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="story.html">Our Story</a></li>
+                <li><a href="details.html">Details</a></li>
+                <li><a href="travel.html">Travel</a></li>
+                <li><a href="registry.html" class="active">Registry</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="container section text-center">
+            <h2>Gift Registry</h2>
+            <p>We are not asking for any physical gifts, however if you would like, we would appreciate helping us start this new chapter of our lives together with cash funds on a down payment of our future home or our honeymoon fund.</p>
+            
+            <div class="registry-grid registry-cards-with-images">
+                
+                <div class="registry-item">
+                    <img src="images/registry/Home.jpg" alt="Home Down Payment" class="registry-img">
+                    <div class="registry-content">
+                        <h3>Home Down Payment</h3>
+                        <p class="price">Contribute what you wish</p>
+                        <button class="btn">Contribute</button>
+                    </div>
+                </div>
+
+                <div class="registry-item featured-fund">
+                    <img src="images/registry/Honeymoon.jpg" alt="Honeymoon Resort" class="registry-img">
+                    <div class="registry-content">
+                        <p style="color: #777; margin-bottom: 5px;"><small>Our featured fund</small></p>
+                        <h3>Honeymoon Resort</h3>
+                        <p class="price">Contribute what you wish</p>
+                        <button class="btn">Contribute</button>
+                    </div>
+                </div>
+
+                <div class="registry-item">
+                    <img src="images/registry/Airbnb.jpg" alt="Airbnb Gift Card" class="registry-img">
+                    <div class="registry-content">
+                        <h3>Airbnb Gift Card</h3>
+                        <p class="price">$100.00</p>
+                        
+                        <div class="progress-track">
+                            <div class="progress-fill" style="width: 50%;"></div>
+                        </div>
+                        <p class="details"><small>10 / 20</small></p>
+                        
+                        <button class="btn">Add to cart</button>
+                    </div>
+                </div>
+
+                <div class="registry-item">
+                    <img src="images/registry/Barkbox.jpg" alt="BarkBox Subscription" class="registry-img">
+                    <div class="registry-content">
+                        <h3>BarkBox 1-Month Subscription</h3>
+                        <p class="price">$35.00</p>
+                        
+                        <div class="progress-track">
+                            <div class="progress-fill" style="width: 5%;"></div>
+                        </div>
+                        <p class="details"><small>1 / 20</small></p>
+                        
+                        <button class="btn">Add to cart</button>
+                    </div>
+                </div>
+
+                <div class="registry-item">
+                    <img src="images/registry/Plane.jpg" alt="Round Trip Plane Tickets" class="registry-img">
+                    <div class="registry-content">
+                        <h3>Round Trip Plane Tickets</h3>
+                        <p class="price">Contribute what you wish</p>
+                        <button class="btn">Contribute</button>
+                    </div>
+                </div>
+
+                <div class="registry-item">
+                    <img src="images/registry/Dinner.jpg" alt="Dinner For Two" class="registry-img">
+                    <div class="registry-content">
+                        <h3>Dinner For Two</h3>
+                        <p class="price">Contribute what you wish</p>
+                        <button class="btn">Contribute</button>
+                    </div>
+                </div>
+
+                <!-- Hotlinking Pic -->
+                <div class="registry-item">
+                    <img src="https://media.istockphoto.com/id/488428896/photo/asphalt-highways-and-sun-set-scene.jpg?s=612x612&w=0&k=20&c=11hXr8dPN22onUtl0XdJ1l4j-SbQHxAFuC9yWr0aHts=" alt="Roadtrip Fund" class="registry-img">
+                    <div class="registry-content">
+                        <h3>Roadtrip Fund</h3>
+                        <p class="price">$500 Goal</p>
+
+                        <div class="progress-track">
+                            <div class="progress-fill" style="width: 0%;"></div>
+                        </div>
+                        <p class="details"><small>$0 / $500</small></p>
+
+                        <button class="btn">Contribute</button>
+                    </div>
+                </div>
+
+                <div class="registry-item">
+                    <img src="images/registry/Flowers.jpg" alt="Floral Bouquet Preservation" class="registry-img">
+                    <div class="registry-content">
+                        <h3>Floral Bouquet Preservation</h3>
+                        <p class="price">Contribute what you wish</p>
+                        <button class="btn">Contribute</button>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>2026 Katelyn & Jacob Wedding</p>
+    </footer>
+
+    <!-- Script for Mobile Menu -->
+    <script>
+        function toggleMenu() {
+            document.getElementById('navLinks').classList.toggle('active');
+        }
+    </script>
+</body>
+</html>

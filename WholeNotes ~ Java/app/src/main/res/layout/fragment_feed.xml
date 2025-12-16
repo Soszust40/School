@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Feed fragment layout.
+    Shows a header graphic at the top and a RecyclerView list below. -->
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true">
+
+    <!-- Header graphic -->
+    <ImageView
+        android:id="@+id/ivFeedHeader"
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/feed_header_foreground"
+        android:contentDescription="@string/feed_header"/>
+
+    <!-- Status message for location info (hidden by default) -->
+    <TextView
+        android:id="@+id/tvStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="12dp"
+        android:textSize="13sp"
+        android:background="#E3F2FD"
+        android:textColor="#1976D2"
+        android:gravity="center"
+        android:visibility="gone" />
+
+    <!-- RecyclerView that holds the feed of posts -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="12dp"
+        android:clipToPadding="false"
+        />
+
+</LinearLayout>
