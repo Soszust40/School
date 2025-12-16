@@ -47,7 +47,18 @@ WholeNotes is a music reviewing application designed with a social feed interfac
 Developed in under 24 hours for a coding challenge, this Fitness App is a health tracker. It integrates with device hardware sensors to automatically track real-time step counts and features a logging system where users can manually record specific workout details and routines.
 <br />
 <br />
-<img src="/Screenshots/FitnessApp.png?" alt="Fitness App image" width="500" height="400">
+<img src="/Screenshots/Fitness App.png?" alt="Fitness App image" width="500" height="400">
+<br />
+<br />
+<br />
+
+### Basic Websites (HTML)
+
+**Release Date:** October 1, 2025 |
+**Last Updated:** December 4, 2025 |
+**Developer:** [Simon Oszust](https://github.com/Soszust40)
+
+A collection of responsive websites created for advanced HTML coursework. Moving from Figma prototypes to code, these projects utilize modern CSS techniques and external libraries to create polished interfaces. Key projects include a functional blog, a personal portfolio page, and a fully designed wedding event site.
 <br />
 <br />
 <br />
