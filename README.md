@@ -2,7 +2,7 @@
 
 Welcome to the School Projects repository! This collection includes various games and software developed for my school assignments. The projects are created using different programming languages based on the course requirements, and most of them include descriptive comments to facilitate learning. Feel free to explore, learn, and have fun with these projects. If you encounter any issues or have suggestions, please reach out!
 
-**Last Updated:** December 15, 2025
+**Last Updated:** December 16, 2025
 
 **Developer:** [Simon Oszust](https://github.com/Soszust40)  
 [![Follow @OszustOS on Twitter](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40OszustOS)](https://twitter.com/OszustOS)
@@ -12,6 +12,8 @@ Welcome to the School Projects repository! This collection includes various game
 > **Note:** Some projects read from and write saves to your computer.
 
 ## Projects
+- [WholeNotes App (Java)](https://github.com/Soszust40/School/edit/main/README.md#wholenotes-app-java)
+- [Fitness App (Java)](https://github.com/Soszust40/School/edit/main/README.md#fitness-app-java)
 - [Spartanmind (C++)](https://github.com/Soszust40/School/blob/main/README.md#spartanmind-c)
 - [Largest Monotonic Island (Dafny)](https://github.com/Soszust40/School/blob/main/README.md#largest-monotonic-island-dafny)
 - [Bank Software (Java)](https://github.com/Soszust40/School/blob/main/README.md#bank-software-java)
@@ -31,7 +33,7 @@ Welcome to the School Projects repository! This collection includes various game
 WholeNotes is a music reviewing application designed with a social feed interface, functioning essentially as "Instagram for music." The app focuses on visual album discovery, allowing users to post reviews, rate songs, and share their musical rotation in a familiar, scrollable feed format.
 <br />
 <br />
-<img src="/Screenshots/WholeNotes.png?" alt="WholeNotes App image" width="500" height="400">
+<img src="/Screenshots/Whole Notes.png?" alt="WholeNotes App image" width="500" height="400">
 <br />
 <br />
 <br />
